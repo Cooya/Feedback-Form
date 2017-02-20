@@ -5,3 +5,5 @@ src/app/*.js
 src/app/*.map
 src/app/services/*.js
 src/app/services/*.map
+
+!src/systemjs.config.js
